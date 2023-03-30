@@ -1,0 +1,35 @@
+.login_el{
+    background-color: #29335C ;
+    width: 30em;
+    height: 30em;
+    border-radius: 20px;
+}
+
+h1,h2,h3,h4,h5{
+font-family: 'Merriweather', serif;
+color: #F0CEA0;
+font-size: 4em;
+}
+p,label{
+font-family: 'Oswald', sans-serif;
+color:#F0CEA0 !important;
+}
+label{
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    margin-top: 70px;
+}
+
+button{
+    margin-top:20px;
+    background-color: #F3A712;
+    color: #29335C;
+    border-color: #F0CEA0;
+}
